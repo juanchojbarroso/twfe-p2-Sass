@@ -1,0 +1,29 @@
+@import './variables';
+
+body {
+    background-color: white;
+}
+
+.header {
+    background-color: $header-color;
+}
+
+.example {
+    background-color: $example-color;
+}
+
+.form {
+    background-color: $form-color;
+}
+
+.guarantee {
+    background-color: $guarantee-color;
+}
+
+.testimonials {
+    background-color: $testimonials-color;
+}
+
+.contacts {
+    background-color: $contacts-color;
+}
